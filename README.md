@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <img src="https://github.com/Ko038/github.io/blob/main/S__8839177_0.jpg">
+    <img class="main-photo" src="https://github.com/Ko038/github.io/blob/main/S__29016067.jpg">
     <h1>中華食堂　一番館　代々木店</h1>
     <p>JR代々木駅から徒歩3分</p>
     <p>美味しい・安い・楽しい・早い！</p>
