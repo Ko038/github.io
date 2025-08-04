@@ -12,7 +12,7 @@ header {
   text-align: center;
 }
 
-.main-photo{
+.main-photo {
   width: 100%;
   height: auto;
   max-height: 400px; /* 高さ制限 */
