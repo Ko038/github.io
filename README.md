@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>町中華 龍園</title>
-  <link rel="stylesheet" href="my-web.css">
+  <link rel="stylesheet" href="https://github.com/Ko038/my-web/tree/main#readme">
 </head>
 <body>
 
