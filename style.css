@@ -12,6 +12,13 @@ header {
   text-align: center;
 }
 
+.main-photo{
+  width: 100%;
+  height: auto;
+  max-height: 400px; /* 高さ制限 */
+  object-fit: cover; /* トリミングっぽく */
+}
+
 h1 {
   margin: 0;
   font-size: 2em;
