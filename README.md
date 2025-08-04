@@ -3,13 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>〇〇カフェ｜公式サイト</title>
+  <title>中華食堂　一番館　代々木店　｜公式サイト</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>〇〇カフェ</h1>
-    <p>心と体にやさしい、くつろぎの空間</p>
+    <h1>中華食堂　一番館　代々木店</h1>
+    <p>JR代々木駅から徒歩3分</p>
+    <p>美味しい・安い・楽しい・早い！</p>
+    <p>幅広い層のお客様に愛される、豊富なメニューとお酒が楽しめる町中華！</p>
   </header>
 
   <section class="menu">
